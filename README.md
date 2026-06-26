@@ -50,6 +50,12 @@ Outside core development, I explore hardware prototyping, PC systems, FPV drone 
   I’m always open to collaboration, learning, and building impactful software.
 </p>
 
+## 📥 Visitor Counter
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VoidxAyush&label=Profile%20views&color=0e75b6&base=842&style=plastic" alt="Profile Views Badge"/>
+</div>
+
 <p align="center">
   <a href="https://linkedin.com/in/ayush-singh-voidx">
     <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer3.png" />
