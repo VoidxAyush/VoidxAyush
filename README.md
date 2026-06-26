@@ -53,7 +53,7 @@ Outside core development, I explore hardware prototyping, PC systems, FPV drone 
 ## 📥 Visitor Counter
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VoidxAyush&label=Profile%20views&color=0e75b6&base=842&style=plastic" alt="Profile Views Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=VoidxAyush&label=Profile%20views&color=0e75b6&base=500&style=plastic" alt="Profile Views Badge"/>
 </div>
 
 <p align="center">
