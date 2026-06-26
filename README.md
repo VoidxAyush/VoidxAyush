@@ -57,11 +57,17 @@ Outside core development, I explore hardware prototyping, PC systems, FPV drone 
 </div>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/ayush-singh-voidx">
     <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer3.png" />
   </a>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
+
+
+
 <!--
 **VoidxAyush/VoidxAyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
