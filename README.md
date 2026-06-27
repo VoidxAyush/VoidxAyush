@@ -56,17 +56,16 @@ Outside core development, I explore hardware prototyping, PC systems, FPV drone 
   <img src="https://komarev.com/ghpvc/?username=VoidxAyush&label=Profile%20views&color=0e75b6&base=500&style=plastic" alt="Profile Views Badge"/>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/ayush-singh-voidx">
     <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/footer3.png" />
   </a>
+</p> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer"/>
 </p>
-
-
 
 
 <!--
