@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-Full-Stack Web Developer • Problem Solver • Curious Tech Learner • Exploring Software, Systems & Design
+Curious Technologist | Building Software, Hardware & Real-Time Systems | Open Source Contributor 
 </h3>
 
 <div align="center">
