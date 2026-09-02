@@ -8,7 +8,7 @@ Curious Technologist | Building Software, Hardware & Real-Time Systems | Open So
 </h3>
 
 <div align="center">
-  <img src="http://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%" style="border-radius: 10px;" alt="Header GIF" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%" style="border-radius: 10px;" alt="Header GIF" />
 </div>
 
 Hi, I'm Ayush - a curious coder and designer who enjoys building things people can actually use. My work sits at the intersection of software systems, real-time data, and physical infrastructure, with an emphasis on reliability, clarity, and thoughtful design.
